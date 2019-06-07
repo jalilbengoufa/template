@@ -10,14 +10,14 @@ title = "Contact"
 subtitle  = "Contactez-nous si vous avez des questions !"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://formspree.io/djalilolimited@live.ca" #default: formspree.io
-email = "djalilolimited@live.ca"
+post_url = "https://formspree.io/test@tets.com" #default: formspree.io
+email = ""
 button = "Send Button" # defaults to theme default
-netlify = false
+netlify = true
 
 # Optional google captcha
-[recaptcha]
-  sitekey = "6Lc3xacUAAAAACgkhFvQh0mcOnkMxRGkSXsEdXpk"
+#[recaptcha]
+#  sitekey = ""
 
 [message]
   success = "Email envoye" # defaults to theme default
