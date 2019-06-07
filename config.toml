@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://happy-mclean-a98d38.netlify.com/"
+baseurl = "https://template.cedille.club/"
 languageCode = "en-us"
 title = "static template cedille"
 theme = "syna"

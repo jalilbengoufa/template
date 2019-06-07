@@ -10,10 +10,10 @@ title = "Contact "
 subtitle  = "*not working on demo page*"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://formspree.io/test@test.com" #default: formspree.io
-email = ""
+post_url = "https://formspree.io/djalilolimited@live.ca" #default: formspree.io
+email = "djalilolimited@live.ca"
 button = "Send Button" # defaults to theme default
-#netlify = false
+netlify = true
 
 # Optional google captcha
 #[recaptcha]
