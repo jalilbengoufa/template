@@ -16,8 +16,8 @@ button = "Send Button" # defaults to theme default
 netlify = false
 
 # Optional google captcha
-#[recaptcha]
-#  sitekey = ""
+[recaptcha]
+  sitekey = "6Lc3xacUAAAAACgkhFvQh0mcOnkMxRGkSXsEdXpk"
 
 [message]
   success = "Email envoye" # defaults to theme default
