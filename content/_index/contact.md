@@ -6,14 +6,14 @@ weight = 300
 background = "dark"
 form_name = "defaultContact"
 
-title = "Contact "
-subtitle  = "*not working on demo page*"
+title = "Contact"
+subtitle  = "Contactez-nous si vous avez des questions !"
 
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://formspree.io/djalilolimited@live.ca" #default: formspree.io
 email = "djalilolimited@live.ca"
 button = "Send Button" # defaults to theme default
-netlify = true
+netlify = false
 
 # Optional google captcha
 #[recaptcha]
@@ -47,5 +47,5 @@ netlify = true
 
 [[fields.hidden]]
   name = "someID"
-  value = "example.com"
+  value = "template.cedille.club"
 +++
